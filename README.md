@@ -6,7 +6,6 @@
 	<img src="https://komarev.com/ghpvc/?username=BarelyAnXer&label=Profile%20views&color=0e75b6&style=flat" alt="BarelyAnXer" />
 	<img src="https://gpvc.arturio.dev/DreamIce-1" alt="zye" />
 </p>
-<h2 align="center">Connect with me:</h2>
 
 <h3 align="center">A college student, highly motivated, and I'm currently pursuing a bachelors degree in Information
 Technology (1st year).</h3>
