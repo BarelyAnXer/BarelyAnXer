@@ -24,21 +24,21 @@ Technology (1st year).</h3>
 </div>
 
 
+<h4 align="center">Connect With Me:</h4>
 <p style="text-align: center;"> 
-    <a href="https://twitter.com/BarelyAnXer">
+	<a href="https://twitter.com/BarelyAnXer">
 		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25"  alt=""/>
 	</a> 
 	<a href="https://www.linkedin.com/in/christian-gazzingan">
 		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25"  alt=""/>
 	</a>
-    <a href="https://www.facebook.com/zye.gazzingan.12"> 
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25"  alt=""/>
-    </a>
-
-[//]: # (missing accounts :tiktok, instagram, etc)
-
+	<a href="https://www.facebook.com/zye.gazzingan.12"> 
+		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25"  alt=""/>
+	</a>
 </p>
-
+	
+[//]: # (missing accounts :tiktok, instagram, etc)
+	
 <h4 align="center">Technologies, Languages, Libraries, Frameworks, and Tools:</h4>
 
 <p style="text-align: center;">
