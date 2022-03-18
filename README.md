@@ -24,7 +24,7 @@ Technology (1st year).</h3>
 </div>
 
 
-<h4 align="center">Connect With Me:</h4>
+<h2 align="center">Connect With Me:</h2>
 <p style="text-align: center;"> 
 	<a href="https://twitter.com/BarelyAnXer">
 		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25"  alt=""/>
@@ -36,10 +36,10 @@ Technology (1st year).</h3>
 		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="25"  alt=""/>
 	</a>
 </p>
-	
+
 [//]: # (missing accounts :tiktok, instagram, etc)
-	
-<h4 align="center">Technologies, Languages, Libraries, Frameworks, and Tools:</h4>
+
+<h2 align="center">Technologies, Languages, Libraries, Frameworks, and Tools:</h2>
 
 <p style="text-align: center;">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25" alt=""/> 
