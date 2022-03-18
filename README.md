@@ -2,12 +2,11 @@
 
 ### Hello World 👋, I'm  Zye
 
-<h3 align="center">A college student, highly motivated, and I'm currently pursuing a bachelors degree in Information
 <p style="text-align: center;">
 	<img src="https://komarev.com/ghpvc/?username=BarelyAnXer&label=Profile%20views&color=0e75b6&style=flat" alt="BarelyAnXer" />
 	<img src="https://gpvc.arturio.dev/DreamIce-1" alt="zye" />
 </p>
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 
 <h3 align="center">A college student, highly motivated, and I'm currently pursuing a bachelors degree in Information
 Technology (1st year).</h3>
@@ -25,7 +24,7 @@ Technology (1st year).</h3>
 
 
 <h2 align="center">Connect With Me:</h2>
-<p style="text-align: center;"> 
+<p style="text-align: center;" align="center"> 
 	<a href="https://twitter.com/BarelyAnXer">
 		<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25"  alt=""/>
 	</a> 
