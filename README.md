@@ -65,3 +65,6 @@ Technology (1st year).</h3>
 [//]: # (<img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=[username]&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=java,dart&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117"  alt=""/>  )
 
 </div>
+
+[//]: # (latest youtube videos)
+[//]: # (latest blog posts)
