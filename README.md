@@ -3,9 +3,9 @@
 ### Hello World 👋, I'm  Zye
 
 <p style="text-align: center;">
-	<img src="https://komarev.com/ghpvc/?username=BarelyAnXer&label=Profile%20views&color=0e75b6&style=flat" alt="BarelyAnXer" />
+<!-- 	<img src="https://komarev.com/ghpvc/?username=BarelyAnXer&label=Profile%20views&color=0e75b6&style=flat" alt="BarelyAnXer" /> -->
 	<img src="https://gpvc.arturio.dev/DreamIce-1" alt="zye" />
-	<img src="https://gpvc.arturio.dev/BarelyAnXer" alt="zye" />
+	
 </p>
 
 <h3 align="center">A college student, highly motivated, and I'm currently pursuing a bachelors degree in Information
