@@ -1,10 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Banner](https://github.com/BarelyAnXer/BarelyAnXer/blob/main/b1810d0bf4fbd370349d671a3f9389af.gif)
+
 
 ### Hello World 👋, I'm  Zye
 
 <p style="text-align: center;">
 <!-- 	<img src="https://komarev.com/ghpvc/?username=BarelyAnXer&label=Profile%20views&color=0e75b6&style=flat" alt="BarelyAnXer" /> -->
 	<img src="https://gpvc.arturio.dev/DreamIce-1" alt="zye" />
+	<img src="https://gpvc.arturio.dev/BarelyAnXer" alt="zye" />
 	
 </p>
 
