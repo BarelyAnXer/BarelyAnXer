@@ -1,7 +1,5 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-![Banner](https://github.com/BarelyAnXer/BarelyAnXer/blob/main/b1810d0bf4fbd370349d671a3f9389af.gif)
-
-
+<!-- ![Banner](https://github.com/BarelyAnXer/BarelyAnXer/blob/main/b1810d0bf4fbd370349d671a3f9389af.gif) -->
+<img src="https://github.com/BarelyAnXer/BarelyAnXer/blob/main/b1810d0bf4fbd370349d671a3f9389af.gif" alt="drawing" width="100%" height="400px"/>
 ### Hello World 👋, I'm  Zye
 
 <p style="text-align: center;">
