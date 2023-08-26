@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">A college student, highly motivated, and I'm currently pursuing a bachelors degree in Information
-Technology (2nd year).</h3>
+Technology.</h3>
 
 - 🌱 I am Currently learning Web Technologies.
 - 🎓 Studying Bachelor of Science in Information Technology.
