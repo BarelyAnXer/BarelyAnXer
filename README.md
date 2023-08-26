@@ -16,7 +16,7 @@ Technology (2nd year).</h3>
 - 🌱 I am Currently learning Web Technologies.
 - 🎓 Studying Bachelor of Science in Information Technology.
 - 👯 Im always looking to work with other developers.
-- ⚡ My goal for 2022 is to keep pushing forward and help others do the same.
+- ⚡ My goal for 2023 is to keep pushing forward and help others do the same.
 
 <!--- 📌 Checkout my pinned repositories for some work I am very proud of. -->
 
