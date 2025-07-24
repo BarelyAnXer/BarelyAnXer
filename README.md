@@ -3,20 +3,23 @@
 
 ### Hello World 👋, I'm Zye
 
-<p style="text-align: center;">
-	<img src="https://gpvc.arturio.dev/DreamIce-1" alt="zye" />
-	<img src="https://gpvc.arturio.dev/BarelyAnXer" alt="zye" />
+<h3 align="center">
+Software Engineer • Cloud Enthusiast • Builder of Things
+</h3>
+
+<p align="center">
+I'm Zye , a passionate Software Enginee with experience in full-stack development, DevOps, and cloud technologies. I love building scalable systems, learning new tools, and sharing my journey in tech communities. Currently diving deep into Kubernetes, AWS, and backend systems with Go.
 </p>
 
-<h3 align="center">A college student, highly motivated, and I'm currently pursuing a bachelor's degree in Information Technology.</h3>
+- 👩‍💻 Currently working full-time in software/cloud engineering.
+- 🎓 Graduated with a B.S. in Information Technology.
+- 🔭 Building things with Kubernetes, Docker, and Go.
+- ☁️ AWS Certified + AWS Community Day speaker.
+- ✍️ Tech writer, speaker, and community advocate.
+- 🤝 Always open to collaboration and mentoring.
 
-- 🌱 I am Currently learning Web Technologies.
-- 🎓 Studying Bachelor of Science in Information Technology.
-- 👯 I'm always looking to work with other developers.
-- ⚡ My goal for 2023 is to keep pushing forward and help others do the same.
-
-<div style="text-align: center;"> 
-<img width="400" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Never+Gonna+Give+You+Up;Never+Gonna+Let+You+Down+;Never+Gonna+Run+Around+And+Desert+You;Never+Gonna+Make+You+Cry;Never+Gonna+Say+Goodbye;Never+Gonna+Tell+A+Lie+And+Hurt+You"  alt=""/>
+<div align="center"> 
+	<img width="400" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&lines=Never+Gonna+Give+You+Up;Never+Gonna+Let+You+Down+;Never+Gonna+Run+Around+And+Desert+You;Never+Gonna+Make+You+Cry;Never+Gonna+Say+Goodbye;Never+Gonna+Tell+A+Lie+And+Hurt+You"  alt=""/>
 </div>
 
 <h2 align="center">Connect With Me:</h2>
